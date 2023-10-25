@@ -1,0 +1,767 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Pollastro, R.M</origin>
+        <origin>Persits, Feliks</origin>
+        <origin>Steinshouer, Douglas W.</origin>
+        <pubdate>199911</pubdate>
+        <title>Major faults in Iran (flt2cg)</title>
+        <edition>1.0</edition>
+        <geoform>Downloadable GIS Data</geoform>
+        <pubinfo>
+          <pubplace>Reston,VA</pubplace>
+          <publish>U.S. Geological Survey, Central Energy Resources Team</publish>
+        </pubinfo>
+        <lworkcit>
+          <citeinfo>
+            <origin>R.M. Pollastro (comp.)</origin>
+            <origin>Feliks Persits (comp.)</origin>
+            <origin>Douglas Steinshouer (comp.)</origin>
+            <pubdate>1999</pubdate>
+            <title>Map showing Geology, Oil and Gas Fields, and Geological Provinces of Iran</title>
+            <edition>version 1.0</edition>
+            <geoform>Digital Maps</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey Open-File Report</sername>
+              <issue>OFR-97-470-G</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Denver, Colorado</pubplace>
+              <publish>U.S. Geological Survey, Central Energy Resources Team</publish>
+            </pubinfo>
+            <onlink>https://geology.cr.usgs.gov/energy/WorldEnergy/OF97-470G/index.html</onlink>
+            <lworkcit>
+              <citeinfo>
+                <origin>U.S. Geological Survey</origin>
+                <pubdate>1998</pubdate>
+                <title>World energy data on CD-ROM</title>
+                <edition>1.0</edition>
+                <geoform>map</geoform>
+                <serinfo>
+                  <sername>USGS Open-File Report</sername>
+                  <issue>97-470</issue>
+                </serinfo>
+                <othercit>Open File Report 97-470G is one of a series of region to continent-
+scale geologic maps of the world being published on
+CD-ROM by the U.S. Geological Survey's World Energy Project.</othercit>
+                <onlink>https://energy.cr.usgs.gov/oilgas/wep/</onlink>
+              </citeinfo>
+            </lworkcit>
+          </citeinfo>
+        </lworkcit>
+        <onlink>https://doi.org/10.5066/P9TMSOQ0</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The geology data set for this map includes arcs, polygons, and
+labels that outline and describe the general geologic age and
+type of bedrock of Iran.  The geologic provinces data set includes
+arcs, polygons, and labels of geologic and petroleum provinces interpreted
+and designated by R.M. Pollastro from a number of literature and map
+resources to assist in the assessment of oil and gas resources
+for the USGS World Energy Project.  The oil and gas field
+centerpoints data set is a point coverage that marks the
+approximate centerpoints of oil and gas fields in Iran.  Political
+boundaries are provided to show the general location of country and/or other
+reference 'political' boundaries.</abstract>
+      <purpose>This digital geologic layer with selected structural features is
+created specifically for the oil and gas assessment of Iran.
+The data provide government, geological community, consultants, and
+the general public with the important geological base that is used
+to define geologic provinces and oil and gas field assignments for
+USGS Oil and Gas Assessment of the World.</purpose>
+      <supplinf>Map showing Geology, Oil and Gas fields and Geologic Provinces
+of Iran is a GIS data set designed originally in ESRI's ARC/INFO
+ver. 7.0.4 and 7.1.2 software.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>199909</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>43.616</westbc>
+        <eastbc>65.484</eastbc>
+        <northbc>40.128</northbc>
+        <southbc>24.728</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Geology</themekey>
+        <themekey>Geologic map</themekey>
+        <themekey>Geologic age</themekey>
+        <themekey>Fault</themekey>
+        <themekey>Thrust fault</themekey>
+      </theme>
+      <theme>
+        <themekt>Gateway to the Earth Thesaurus</themekt>
+        <themekey>Oil shale resources</themekey>
+        <themekey>Oil sand resources</themekey>
+        <themekey>Natural gas resources</themekey>
+        <themekey>Economic geology</themekey>
+      </theme>
+      <theme>
+        <themekt>ArcIMS Metadata Server Theme Codes Thesaurus</themekt>
+        <themekey>geoscientificInformation</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Energy Program Themes Thesaurus</themekt>
+        <themekey>Earth Science</themekey>
+        <themekey>Natural Resources</themekey>
+        <themekey>U.S. Geological Survey</themekey>
+        <themekey>USGS</themekey>
+        <themekey>Geology</themekey>
+        <themekey>Oil</themekey>
+        <themekey>Natural Gas</themekey>
+        <themekey>Petroleum</themekey>
+        <themekey>Resource Assessment</themekey>
+      </theme>
+      <theme>
+        <themekt>EnergyResourceActivities</themekt>
+        <themekey>oilgas</themekey>
+        <themekey>wep</themekey>
+        <themekey>worldgeologicmaps</themekey>
+        <themekey>iran</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Iran</placekey>
+        <placekey>Islamic Republic of Iran</placekey>
+        <placekey>IR</placekey>
+        <placekey>Middle East</placekey>
+      </place>
+      <place>
+        <placekt>USGS Energy Program Petroleum Assessment Units</placekt>
+        <placekey>Middle Caspian Basin, Province 1109</placekey>
+        <placekey>South Caspian Basin, Province 1112</placekey>
+        <placekey>Kura Basin, Province 1113</placekey>
+        <placekey>Karabogaz-Karakum High, Province 1153</placekey>
+        <placekey>Amu-Darya Basin, Province 1154</placekey>
+        <placekey>Kopet-Dag Foldbelt, Province 1155</placekey>
+        <placekey>Oman Mountains, Province 2017</placekey>
+        <placekey>Gulf of Oman Basin, Province 2018</placekey>
+        <placekey>Rub Al Khali Basin, Province 2019</placekey>
+        <placekey>Interior Homocline-Central Arch, Province 2020</placekey>
+        <placekey>Greater Ghawar Uplift, Province 2021</placekey>
+        <placekey>Qatar Arch, Province 2022</placekey>
+        <placekey>Widyan Basin-Interior Platform, Province 2023</placekey>
+        <placekey>Mesopotamian Foredeep Basin, Province 2024</placekey>
+        <placekey>Zagros Fold Belt, Province 2030</placekey>
+        <placekey>Zagros Thrust Zone, Province 2031</placekey>
+        <placekey>Araks, Province 2080</placekey>
+        <placekey>Lesser Caucasus, Province 2081</placekey>
+        <placekey>Central Iranian Basins, Province 2091</placekey>
+        <placekey>Central Iranian Microcontinents, Province 2092</placekey>
+        <placekey>Lut Block and Depression, Province 2093</placekey>
+        <placekey>Alborz Fold Belt, Province 2094</placekey>
+        <placekey>Southeast Afghanistan, Province 8001</placekey>
+        <placekey>Makran, Province 8021</placekey>
+        <placekey>Baluchistan, Province 8022</placekey>
+        <placekey>Central Afghanistan, Province 8023</placekey>
+      </place>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:60a82961d34ea221ce4e607a</themekey>
+      </theme>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>The oil and gas field centerpoints data set is part of
+a proprietary database, and field names or any other data
+associated with the field centerpoints cannot be
+attributed or displayed.  Furthermore, portions of this
+database covering coastline and country boundaries contain
+intellectual property of Environmental Systems Research
+Institute, Inc. (ESRI), and are used with permission.  End
+users are permitted to use these data sets for their own
+internal use, including derivative work, but are prohibited
+from using and redistributing these data individually or in
+a derivative work to third parties.  Please refer to the
+"ATTACHMENT B" file on this CD-ROM for further information on
+ESRI's license agreement.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - CERSC Data Management Services Project</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 25, Mail Stop 939</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>datamgt@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browsen>https://www.sciencebase.gov/catalog/file/get/60a82961d34ea221ce4e607a?f=__disk__5c%2F14%2F4e%2F5c144e61e6d26f37e937f5054d12badcde16f813</browsen>
+      <browset>JPEG</browset>
+    </browse>
+    <datacred>Digital Geologic Map Compilation - Feliks Persits, Douglas Steinshouer
+Geological Attribution - Feliks Persits, Douglas Steinshouer, Richard Pollastro
+Fault map compilation - Richard Pollastro, Douglas Steinshouer
+Province Boundaries    - Richard Pollastro
+Province Boundary Digital Compilation - Lee Osmonson
+Oil and Gas Database - Tim Klett
+Implementation of metadata- Feliks Persits, Douglas Steinshouer, B.S. Larson
+Arcview project - Feliks Persits, Douglas Steinshouer
+CD-ROM implementation - Feliks Persits, Douglas Steinshouer, B.S. Larson</datacred>
+    <native>Server and Operating System: Sun Sparc Server 1000 with Solaris 2.5.1
+GIS software:  Workstation ARC/INFO ver. 7.1.2
+Set of subdirectories of 145 MB total size</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Overall accuracy is based on accuracy of general geology coverage.
+Since all the attributes are of character type, only
+correctness of polygon labeling can be provided (see below).
+1. Attribute item "GLG" is abstracted from fill colors and
+patterns of source map denoting geologic age of surficial outcrops.
+Rock units whose age is divided within a geologic period on the map
+are left undivided.  For instance, units labeled on the original map
+"Q" or "Q1" are attributed as "Q". Units labeled as "PgN" are attributed as "T".
+Units labeled as "N1" and "N2" are attributed as "N" (Neogene).
+Units labeled as "Pg1", "Pg2", "Pg3" are attributed as "Pg" (Paleogene).
+Units spanning Neogene and Paleogene are attributed as "T".
+All Precambrian units are left undivided.
+
+Units colored as acid igneous rocks, where age and type are not clear,
+are attributed as "acid".  The same is done for "basic" and "inter".
+When age for igneous units is unclear, attributes are assigned "ai",
+"bi and "ii" for corresponding acid, basic and intermediate intrusive
+igneous rocks. A similar scheme is used for volcanic rocks. Areas
+colored as surface water bodies are attributed as "H2O". Sea and ocean
+are attributed as "Sea". Unmapped areas are labeled as "U". Because of
+the poor quality of map printing, there are many uncertainties in
+ascertaining the classification of polygons.  Where there are
+disagreements on the original map between the label and the fill
+color, or where printing errors occur, the preference is given to
+the label in attributing the unit.  In some cases, a judgement is
+made according to the inferred geologic trend. Definitions for the
+values are found below in the entity and attribute information section.
+
+2. Standard verification of attribute reliability is performed with the Arc/Info
+command LABELERRORS to find polygons without assigned character value or with
+more than one value.
+
+A comparison between color plot and original paper map is
+carried out by on-screen visual examination.  The coverages are superimposed
+on a registered and rectified gray-scale scanned image of the original
+map and inspected.  All errors detected in attributes are corrected.
+As indicated above, some attibutes may be in error because
+I. Features on geology coverage (ir_geo) are a result of
+combinations of fillcolor, fillpattern and patterncolor
+on original map and are subject to interpretation error.
+II. Poor printing quality of the original map results in mismatches
+between polygon boundaries and color.
+A best guess estimate approach is used in a number of cases to ascertain the
+intended attribute on the original map.</attraccr>
+      <qattracc>
+        <attraccv>Good</attraccv>
+        <attracce>This is a deductive estimate based on based on a polygon overlay
+of a coverage plot and the orignal materials.  Checks by both the
+compiler and an independent source identified labeling and classification
+errors which are corrected.  Any remaining errors are most likey a
+result of misinterpretation of source data.  Commonly, this would be
+for small polygons with ambiguous color or patterns.</attracce>
+      </qattracc>
+    </attracc>
+    <logic>The Data set is a collection of ARC/INFO coverages that are
+topologically consistent.  The fuzzy tolerance has been consistent
+through each processing step (500).
+Based on this fuzzy tolerance value all undershoots and overshoots
+were detected and deleted.
+Execution of Arc/Info Clean command indicates the coverage is topologically
+clean.  Duplicate lines, overshoots and undershoots if any are corrected.
+All polygons are closed and labeled.  In some rare cases very small polygons
+could be eliminated.  Polygons at the edge of the map are closed with a
+map estent polygon.</logic>
+    <complete>The following generalizations of original geological map are performed:
+1. Several geological age subdivisions on original 1:2,500,000
+geological map are combined into single units.
+For example, all Jurrasic combined into one unit.
+2. All the Precambrian subdivisions are combined into one unit.
+The version of Geologic Province Boundaries is correct as of April, 1999.
+
+The geologic attribute data are assigned using standardized geologic
+symbols for the World Energy project.  The geology is
+simplified from its original version.  Since the emphasis of this study is
+an evaluation of oil and gas resources, Precambrian units and other
+non-petroleum bearing units are generalized more than younger units.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>1. Original geological map is of 250 m. maximum accuracy
+(0.1 mm on paper map of 1:2,500,000 scale)
+2. Scanned images are of 200 dot/inch resolution (0.1 mm on paper).
+Therefore fuzzy tolerance for CLEAN command in ARC/INFO is set to 500 meters
+(two pixels).
+3. Several steps are taken to vectorize scanned images.
+The projection information is given on the original map as
+"...adjusted from Polyconic Projection of the International 1:1,000,000
+Map of the World."  Because such projection is not supported by ESRI's ARC/INFO
+software, it is necessary to georeference the map to a known projection.
+This is done as follows
+3.1. A latitude/longitude grid with cell size 2 * 2 degree
+is projected to Lambert Conformal Conic projection and then
+used to create an ARC/INFO point coverage.  That point coverage
+is used to create "to - from" links by means of the
+ARC/INFO CONTROLPOINTS command.
+3.2  A gray-scale scanned image converted to an Arc/Info grid of the original
+paper map is transformed to Lambert Conformal Conic projection by means of
+the ARC/INFO GRIDWARP command (polynomial of the second order),
+using the "to - from" links created with the  CONTROLPOINTS command.
+3.3  The source of the geologic contacts is a mylar sheet with the linework
+traced from the source map on a light table. This mylar sheet is scanned
+as a binary image and then vectorized with the ARC/INFO GRIDLINE utility.
+The resulting coverage is projected to the Lambert Conformal Conic
+projection, and then adjusted with the Arcedit adjust command to match
+the rectified gray-scale image of the source map.  The vectorized
+coverage is edited and attributed in arcedit using the gray-scale image
+of the source map as a background guide.
+3.4  Polygon boundaries and geologic attributing of the ARC/INFO
+coverage from step 3.3 are verified and corrected by comparison to the
+grey-scale image background.
+3.5  A series of piecewise "rubbersheet" transformations are
+applied to the final ARC/INFO coverage to ensure a closer match
+to the ArcWorld 1:3M cartographic layers (CRTY3m and RIV3M), which are
+used as the base map for the digital geologic maps of the world in this
+series.
+
+Overall position error was estimated by randomly selected set of locations on the
+ESRI coverages and the same locations on the final geology coverage (ir_geo).
+RMS error is 1.6 km (0.6 mm of the original paper map) with a maximum error of
+about 6 km (2.4 mm on the original paper map).</horizpar>
+        <qhorizpa>
+          <horizpav>1600 meters</horizpav>
+          <horizpae>Overall position error was estimated by randomly selected set of locations on the
+ESRI coverages and the same locations on the final geology coverage (ir_geo).
+RMS error is 1.6 km (0.6 mm of the original paper map) with a maximum error of
+about 6 km (2.4 mm on the original paper map).</horizpae>
+        </qhorizpa>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Geological Survey of Iran</origin>
+            <pubdate>1985</pubdate>
+            <title>Geological Map of Iran</title>
+            <geoform>Map</geoform>
+            <pubinfo>
+              <pubplace>Tehran, Iran</pubplace>
+              <publish>Islamic Republic of Iran
+Ministry of Mines and Metals
+Geological Survey of Iran</publish>
+            </pubinfo>
+            <othercit>Compiled by A. Haghipour and A. Aghanabati</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>2500000</srcscale>
+        <typesrc>Paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1985</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>GSI</srccitea>
+        <srccontr>Geologic contacts, major faults, geologic age and lithology, where applicable.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute, Inc. (ESRI)(comp.)</origin>
+            <pubdate>1992</pubdate>
+            <title>Arcworld Digital Map of the world</title>
+            <geoform>Digital files - ARC/INFO coverages</geoform>
+            <pubinfo>
+              <pubplace>Redlands, CA, USA</pubplace>
+              <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>3000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1992</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Date of publication</srccurr>
+        </srctime>
+        <srccitea>ESRI</srccitea>
+        <srccontr>Used as a basemap to adjust spatial location of objects digitized from GSI maps.
+Also, selected cities were taken for coverage city_ir.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Petroconsultants International Data Corp.</origin>
+            <pubdate>1996</pubdate>
+            <title>Petroconsultants Exploration and Production Database</title>
+            <geoform>Digital data set - Oracle database</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1996</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>PCI</srccitea>
+        <srccontr>Centerpoints of oil and gas fields.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>T.R. Klett, T.S. Ahlbrandt, J.W. Schmoker, and G.L. Dolton</origin>
+            <pubdate>1997</pubdate>
+            <title>Ranking of the World's Oil and Gas Provinces by Known Petroleum Values</title>
+            <serinfo>
+              <sername>World Energy Data on CD-ROM</sername>
+              <issue>Open-File Report 97-463</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Denver, CO, USA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1997</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>19990400</srccurr>
+        </srctime>
+        <srccitea>USGS</srccitea>
+        <srccontr>Boundaries and attributes of geologic provinces.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Geologic contacts are inked on mylar sheet placed on top of source map on
+light table.  Mylar sheet of traced geologic contacts is scanned as TIFF
+format binary image.  Binary image converted to ARC/INFO grid. Linework is
+vectorized. Polygons are attributed with geologic age and type.
+
+Scan original paper map on large format Anatech Eagle scanner, producing
+one gray-scale image in TIFF format at 200 dot/inch resolution.
+Scanned image is converted to ARC/INFO grid by means of the ARC/INFO imagegrid
+command. The grid is then transformed to Lambert Conformal Conic projection
+with the  ARC/INFO GRIDWARP command (polynomial of the second order).
+The "from-to" links for transformation are created with the ARC/INFO
+CONTROLPOINTS command, where a latitude/longitude graticule (point
+coverage) with cell size 2 X 2 degrees is used as a reference.
+
+Geologic contact coverage is cleaned and georeferenced.
+Verification and correction of geologic age polygons, using grey-scale
+image of Geological Survey of Iran source map as a backdrop guide.
+Label attributes are populated in Arcedit.
+(This step is performed simultaneously with verification of
+position of arcs and labels.)
+
+A series of piecewise "rubbersheet" transformations
+are applied to the ARC/INFO geologic coverage created after
+the verification of linework and attribute values.
+The ARC/INFO coverages that are used for transformation
+are ESRI's ArcWorld 1:3M GIS cartographic layers (RIV3M, CTRY3M).
+To perform rubber transformation the combination of ARC/INFO
+ARCEDIT ADD (links) and ADJUST commands are applied.
+There are a number of such transformations for each selected
+area of original coverage.
+
+Major faults are digitized and attributed in Arcedit,
+using the gray-scale image of the source map and the
+geologic age polygon coverage as a background guide.
+
+Layout of "Map Showing Geology, Oil and Gas Fields, Geologic
+Provinces, and Major Faults of Iran" is produced in Arcplot,
+using the ARC/INFO coverages described in this metadata file.
+Postscript and HPGL files are produced.
+
+Layout of the "Province" map without geologic age is produced in Arcplot.
+Postscript and HPGL files are produced.
+
+Adobe Acrobat Portable Document file (PDF), iranmap.pdf is produced
+in Adobe Acrobat Exchange using the postscript files of
+map showing geology, map without geology and text files.
+The PDF file is used to generate tif, gif and jpg files with
+Adober Phtoshop version 5.5.
+
+Arcview shapefiles are produced in Arcview v3.0 from the
+coverages described in this metadata file.  An Arcview
+project and an ArcExplorer project are created.
+
+ARC/INFO exchange format files (.e00), "ungenerate" format text files (.gen),
+comma delimited attribute files (.csv) and SDTS files are generated of the
+ARC/INFO coverages described in this metadata file</procdesc>
+        <procdate>1999</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Feliks Persits</cntper>
+            </cntperp>
+            <cntpos>GIS Analyst, Contract</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>U.S. Geological Survey, MS 939
+Box 25046
+Denver Federal Center</address>
+              <city>Denver</city>
+              <state>Colorado</state>
+              <postal>80225-0046</postal>
+              <country>U.S.A.</country>
+            </cntaddr>
+            <cntvoice>303-236-3612</cntvoice>
+            <cntfax>303-236-8822</cntfax>
+            <cntemail>fpersits@usgs.gov</cntemail>
+            <hours>8 am to 4 pm U.S. Rocky Mountain Time Zone</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>17449</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Major faults</enttypl>
+        <enttypd>Geologic faults of significance to be mapped at a scale
+of 1:25000000.  Arc attribute table</enttypd>
+        <enttypds>U.S. Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>fnode#</attrlabl>
+        <attrdef>From-node identifier of linear feature</attrdef>
+        <attrdefs>Software computed</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>4093</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>tnode#</attrlabl>
+        <attrdef>To-node identifier of linear feature</attrdef>
+        <attrdefs>Software computed</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2</rdommin>
+            <rdommax>4095</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>lpoly#</attrlabl>
+        <attrdef>Internal number of polygon to left of arc</attrdef>
+        <attrdefs>Software computed</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>rpoly#</attrlabl>
+        <attrdef>Internal number of polygon to right of arc</attrdef>
+        <attrdefs>Software computed</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>length</attrlabl>
+        <attrdef>Length of line</attrdef>
+        <attrdefs>Software computed</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>509.184</rdommin>
+            <rdommax>275431.594</rdommax>
+            <attrunit>Meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>type</attrlabl>
+        <attrdef>Textual code indicating type of fault</attrdef>
+        <attrdefs>U.S. Geological Survey</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>th</edomv>
+            <edomvd>thrust fault</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>o</edomv>
+            <edomvd>other type of fault, e.g., normal, reverse</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>line</attrlabl>
+        <attrdef>Textual code designating whether the fault is evident or inferred</attrdef>
+        <attrdefs>U.S. Geological Survey</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>e</edomv>
+            <edomvd>evident fault</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>i</edomv>
+            <edomvd>inferred fault</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>symbol</attrlabl>
+        <attrdef>Numeric code indicating the linesymbol used from custom
+ARC/INFO lineset ir_flt.lin drawn in a map layout.</attrdef>
+        <attrdefs>U.S. Geological Survey</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>104</edomv>
+            <edomvd>evident thrust fault</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>105</edomv>
+            <edomvd>inferred thrust fault</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>108</edomv>
+            <edomvd>evident other fault</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>109</edomv>
+            <edomvd>inferred other fault</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P9TMSOQ0</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20210521</metd>
+    <metrd>20040625</metrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - CERSC Data Management Services Project</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 25, Mail Stop 939</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>datamgt@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
